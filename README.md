@@ -5,7 +5,7 @@ A framework that allows creation of maps using geodata. The current version is o
 
 This was used in the creation of the "Rise of the Droid" video as seen here:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/ILoMIb8SNlI" frameborder="0" allowfullscreen></iframe>
+www.youtube.com/ILoMIb8SNlI
 
 <b>Implementation</b>
 
